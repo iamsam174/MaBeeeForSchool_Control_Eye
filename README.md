@@ -1,4 +1,4 @@
-# MaBeee for School 制御アプリ (視線入力対応版)
+# MaBeee for School 制御アプリ （視線入力対応版）
 
 このアプリは、乾電池型IoTデバイス「MaBeee for School (学校版 / Scratch対応版)」をWindows PCから制御するためのソフトウェアです。
 Tobii Eye Tracker 5などを利用した視線入力やマウス操作で、単3形以上の乾電池を電源とするオモチャなどを簡単に動かすことができます。
