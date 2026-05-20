@@ -3,6 +3,16 @@
 このアプリは、乾電池型IoTデバイス「MaBeee for School (学校版 / Scratch対応版)」をWindows PCから制御するためのソフトウェアです。
 Tobii Eye Tracker 5などを利用した視線入力やマウス操作で、単3形以上の乾電池を電源とするオモチャなどを簡単に動かすことができます。
 
+## ダウンロードと起動方法
+
+1. **ダウンロード**:
+   - 本リポジトリのファイル一覧にある **`MabeeeForSchool_Control_Eye.zip`** をクリックし、詳細画面の「Download」または「Download raw file」ボタンを押してダウンロードします。
+   - あるいは、リポジトリの **Releases** ページ（Version 1.1.0）のアセット一覧からも同じ `MabeeeForSchool_Control_Eye.zip` をダウンロードできます。
+2. **解凍**:
+   - ダウンロードした `MabeeeForSchool_Control_Eye.zip` を右クリックして「すべて展開」を選択し、解凍します。
+3. **起動**:
+   - 展開されたフォルダ内にある **`MabeeeForSchool_Control_Eye.exe`** をダブルクリックして起動します。
+
 ## 同梱ファイル
 配布用のZIPファイル（`MabeeeForSchool_Control_Eye.zip`）を展開すると、以下のファイル群が含まれるフォルダが作成されます。
 
