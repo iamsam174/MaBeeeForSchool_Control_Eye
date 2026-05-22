@@ -15,7 +15,7 @@ Tobii Eye Tracker 5などを利用した視線入力やマウス操作で、単3
 
 ## 動作環境
 - OS: Windows 10 / Windows 11
-- Bluetooth 4.0以降対応のPC（MaBeeeとの通信に使用）
+- Bluetooth 4.0以降対応のPC（MaBeee for Schoolとの通信に使用）
 - Webカメラ（※「カメラ1」「カメラ2」などの映像を表示する場合のみ必要。不要な場合は「カメラなし」を選択可）
 
 ## 使用方法
